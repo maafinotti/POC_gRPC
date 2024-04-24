@@ -22,3 +22,15 @@ Este projeto foi realizado por um grupo de alunos da PUC-SP, para a entrega de u
 No projeto foi criada uma calculadora simples, que soma dois valores, mostrando como funciona o sistema de servidor e cliente com gRPC.
 
 Para acessar o guia prático, clique [aqui](https://github.com/maafinotti/POC_gRPC/blob/master/Guia%20Pr%C3%A1tico%20-%20gRPC.pdf)
+
+### :bookmark_tabs: Etapas
+- [X] Pesquisar sobre o assunto
+- [x] Criação do doc com referências e prévia da POC
+- [x] Criação da POC
+- [x] Preparação dos slides
+- [x] Preparação do guia prático da POC
+- [x] Apresentação
+- [x] Disponibilização da POC no Github
+
+### :eyes: Status
+Concluído :white_check_mark:
