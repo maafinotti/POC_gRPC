@@ -19,4 +19,6 @@
 ### :books: Sobre
 Este projeto foi realizado por um grupo de alunos da PUC-SP, para a entrega de uma POC sobre gRPC para o curso de **Ciência de Dados e Inteliência Artificial**.
 
-No projeto foi criada uma calculadora simples, que soma dois valores, mostrando como funciona o sistema de servidor e cliente com gRPC
+No projeto foi criada uma calculadora simples, que soma dois valores, mostrando como funciona o sistema de servidor e cliente com gRPC.
+
+Para acessar o guia prático, clique [aqui](https://github.com/maafinotti/POC_gRPC/blob/master/Guia%20Pr%C3%A1tico%20-%20gRPC.pdf)
