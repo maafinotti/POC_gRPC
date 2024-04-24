@@ -4,7 +4,7 @@
 
 <h1 align="center">POC - gRPC</h1>
 
-<h3 align="center">:computer: Projeto gRPC - POC de Sistemas Distribuídos do Quinto Semestre - PUC-SP :computer: </h3>
+<h3 align="center">:computer: Projeto POC - gRPC: Aula de Sistemas Distribuídos do Quinto Semestre - PUC-SP :computer: </h3>
 <h4 align="center">Abril/2022</h4>
 <p align='center'> :school: Faculdade :school: </p>
  
