@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://blog.postman.com/wp-content/uploads/2023/11/What-is-gRPC_.jpg">
+  <img src=https://blog.postman.com/wp-content/uploads/2023/11/What-is-gRPC_.jpg" width="150" height="200">
 </p>
 
 <h1 align="center">gRPC - POC</h1>
